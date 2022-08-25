@@ -23,7 +23,7 @@
     "@fp4ts/http-dsl-server": "latest",
     "@fp4ts/http-node-server": "latest",
     "@fp4ts/http-server": "latest",
-    "@fp4ts/logging": "^latest",
+    "@fp4ts/logging": "latest",
     "@fp4ts/schema": "latest",
     "@fp4ts/schema-json": "latest",
     "@fp4ts/sql": "latest",

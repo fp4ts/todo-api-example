@@ -1,5 +1,6 @@
 .vscode
 todo.db
+yarn.lock
 
 
 # Created by https://www.toptal.com/developers/gitignore/api/macos,node,yarn,visualstudiocode
